@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tvmediation"]
+	path = tvmediation
+	url = https://github.com/dcoffman/tvmediation
+	shallow = true
+	registered = true
