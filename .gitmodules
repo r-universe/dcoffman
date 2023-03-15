@@ -8,3 +8,8 @@
 	url = https://github.com/dcoffman/tvmediation
 	shallow = true
 	registered = true
+[submodule "twangContinuous"]
+	path = twangContinuous
+	url = https://github.com/dcoffman/twangcontinuous
+	shallow = true
+	registered = true
