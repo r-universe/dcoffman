@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tvmediation"]
 	path = tvmediation
 	url = https://github.com/dcoffman/tvmediation
-	shallow = true
-	registered = true
 [submodule "twangContinuous"]
 	path = twangContinuous
 	url = https://github.com/dcoffman/twangcontinuous
-	shallow = true
-	registered = true
